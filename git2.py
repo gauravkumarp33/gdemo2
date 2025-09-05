@@ -1,1 +1,2 @@
-n=int(input("enter"))
+n=int(input("enter N"))
+m=int(input("enter M"))
